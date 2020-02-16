@@ -1,2 +1,2 @@
 # Java-study-
-intresting topis to read - links etc.
+intresting topics to read - links etc.
